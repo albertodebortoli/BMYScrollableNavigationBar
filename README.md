@@ -2,7 +2,7 @@
 
 Facebook-style scrollable navigation bar as used in the [Beamly iOS app](https://itunes.apple.com/gb/app/beamly-tv-by-zeebox/id454689266?mt=8).
 
-![1](https://img-i.zeebox.com/images/ugc/uu7c909116-f781-4222-ba26-f9f6d74f5f0a/c1cbdafb-d690-455b-954f-d548d29da117.gif)
+![1](./images/ScrollableNavigationBar.gif)
 
 This version of the scrollable navigation bar feature is an evolution on [Valentin Shergin](https://github.com/shergin)'s [SherginScrollableNavigationBar](https://github.com/shergin/SherginScrollableNavigationBar). There are a few open source components ([1](https://github.com/andreamazz/AMScrollingNavbar), [2](https://github.com/telly/TLYShyNavBar), [3](https://github.com/luugiathuy/GTScrollNavigationBar), [4](https://github.com/justinswart/JSCollapsingNavBarViewController)) for iOS but all of them suffer of different issues (included the original SherginScrollableNavigationBar) and work only with translucent or opaque navigation bars.
 
